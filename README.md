@@ -1,2 +1,2 @@
 # Projects-C-
-Projects written in the C programming language
+Implementation of data sorting in the C programming language
