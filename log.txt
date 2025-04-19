@@ -1,0 +1,13 @@
+Created a random array!
+1.Buble sortering started!
+ The array is sorted!
+ The result is written to a file!
+ Characteristics are recorded in a file!
+2.Quick sortering started!
+ The array is sorted!
+ The result is written to a file!
+ Characteristics are recorded in a file!
+3.Insertion sortering started!
+ The array is sorted!
+ The result is written to a file!
+ Characteristics are recorded in a file!
